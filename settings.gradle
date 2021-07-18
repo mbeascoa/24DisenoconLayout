@@ -1,0 +1,2 @@
+rootProject.name = "24DiseñoconLayout"
+include ':app'
